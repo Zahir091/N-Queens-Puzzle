@@ -1,1 +1,2 @@
 # N-Queens-Puzzle
+Created a program to solve the classic N-Queens chess problem, identifying all possible solutions for placing N queens safely on an NxN chessboard. I scaled my initial fixed 8-queens problem to accept any value of N, utilizing dynamic memory allocation within the algorithm. This code utilzes backtracking to efficiently explore multiple scenarios and ensure comprehensive solution coverage.
